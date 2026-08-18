@@ -90,8 +90,6 @@ Full-Stack Software Engineer & AI Systems Specialist with **3.6+ years of experi
 ---
 
 ## 📊 GitHub Statistics
+[![Shujaaur's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shujaa786&show_icons=true&theme=dark)](https://github.com/shujaa786)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shujaa786&show_icons=true&theme=radial" alt="Shujaaur's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shujaa786&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shujaa786&layout=compact&theme=dark)](https://github.com/shujaa786)
