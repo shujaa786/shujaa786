@@ -39,11 +39,9 @@ Full-Stack Software Engineer & AI Systems Specialist with **3.6+ years of experi
 ## 🌟 Featured Full-Stack Projects
 
 ### 🌍 Trip Adviser AI — Multi-Agent Travel Orchestration Platform
-**Tech Stack:** `React 18` `TypeScript` `Node.js` `Express` `Turborepo` `Prisma` `PostgreSQL (Neon)` `Google Gemini` `Groq API`
-* **Multi-Agent Orchestration Pipeline:** Engineered a sequential multi-agent execution pipeline (Interpreter ➔ Destination ➔ Itinerary ➔ Budget Agents) that decomposes unstructured natural language prompts into fully structured, context-aware travel plans.
-* **Fault-Tolerant LLM Provider Layer:** Built a resilient provider layer featuring automated, dynamic failover between Google Gemini (Primary) and Groq API (Fallback) to guarantee low-latency responses and 99.9% inference availability.
-* **Scalable Monorepo Architecture:** Structured as a high-performance Turborepo monorepo (`pnpm` workspaces) isolating frontend (`Vite`/`Tailwind`), RESTful backend (`Express`/`Prisma`), and shared type definitions.
-* **End-to-End Persistence & Security:** Implemented JWT-based authentication, user-bound context management, and persistent trip state storage using Prisma ORM with cloud-native PostgreSQL (Neon).
+*Multi-agent AI travel planner built with React 18, Node.js, TypeScript, Turborepo, Prisma, PostgreSQL, & Dual LLM Providers.*
+* Engineered a sequential multi-agent execution pipeline (Interpreter ➔ Destination ➔ Itinerary ➔ Budget Agents) to translate natural language prompts into structured travel plans.
+* Implemented dynamic failover between Google Gemini and Groq APIs for fault tolerance, secured JWT authentication, and managed state using Prisma ORM with Neon PostgreSQL.
 
 ### 📖 [BookLeaf AI-Assisted Support Portal](https://github.com/shujaa786)
 *Real-time AI-powered author support platform built with React 19, Node.js, TypeScript, PostgreSQL, & AWS.*
