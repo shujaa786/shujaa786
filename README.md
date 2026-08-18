@@ -90,6 +90,25 @@ Full-Stack Software Engineer & AI Systems Specialist with **3.6+ years of experi
 ---
 
 ## 📊 GitHub Statistics
-[![Shujaaur's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shujaa786&show_icons=true&theme=dark)](https://github.com/shujaa786)
 
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shujaa786&layout=compact&theme=dark)](https://github.com/shujaa786)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shujaa786&theme=dark" alt="Shujaaur's Profile Details" width="48%" />
+ 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shujaa786&theme=react-dark" alt="Shujaaur's Contribution Graph" width="100%" />
+</p>
+</p>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
