@@ -1,10 +1,10 @@
 # Hi there, I'm Shujaaur Rahman 👋
 
-Full-Stack Software Engineer & AI Systems Specialist with **3.6+ years of experience** building high-performance web applications, reproducible LLM evaluation benchmarks, and enterprise AI workflows.
+Full-Stack Software Engineer & AI Systems Specialist with **4+ years of experience** building scalable web applications, distributed microservices, and production-grade AI systems.
 
-- 🔭 **Currently:** Architecting full-stack systems, multi-agent AI frameworks, and automated LLM benchmarks.
-- 💼 **Experience:** Marqeta Inc. (NASDAQ: MQ), BIS Research, Freelance AI Evaluation Engineer (Outlier & 3rd-party platforms).
-- 🛠️ **Core Tech:** Python (Django/Flask), Node.js, Express, React.js, Next.js, GraphQL, AWS, Docker, & LLM Benchmarking.
+- 🔭 **Currently:** Engineering full-stack AI platforms, multi-agent frameworks, and high-throughput web systems.
+- 💼 **Experience:** Marqeta Inc. (NASDAQ: MQ), BIS Research, Full-Stack & AI Systems Consultant (Contract/Freelance).
+- 🛠️ **Core Tech:** React.js, Next.js, Node.js, Express, Python (Django/Flask), TypeScript, GraphQL, PostgreSQL, AWS, & Docker.
 - 🎓 **Education:** B.Tech in Computer Science & Engineering (YMCA University).
 - 📫 **How to reach me:** shujarahman786@gmail.com
 - 🌐 **Connect:** [LinkedIn](https://linkedin.com/in/shujaaur) | [GitHub](https://github.com/shujaa786)
