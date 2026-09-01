@@ -38,12 +38,12 @@ Full-Stack Software Engineer & AI Systems Specialist with **4+ years of experien
 
 ## 🌟 Featured Full-Stack Projects
 
-### 🌍 Trip Adviser AI — Multi-Agent Travel Orchestration Platform
+### 🌍 [Trip Adviser AI — Multi-Agent Travel Orchestration Platform](https://github.com/shujaa786/Trip_Adviser.AI)
 *Multi-agent AI travel planner built with React 18, Node.js, TypeScript, Turborepo, Prisma, PostgreSQL, & Dual LLM Providers.*
 * Engineered a sequential multi-agent execution pipeline (Interpreter ➔ Destination ➔ Itinerary ➔ Budget Agents) to translate natural language prompts into structured travel plans.
 * Implemented dynamic failover between Google Gemini and Groq APIs for fault tolerance, secured JWT authentication, and managed state using Prisma ORM with Neon PostgreSQL.
 
-### 📖 [BookLeaf AI-Assisted Support Portal](https://github.com/shujaa786)
+### 📖 [BookLeaf AI-Assisted Support Portal](https://github.com/shujaa786/bookleaf-author-support-portal)
 *Real-time AI-powered author support platform built with React 19, Node.js, TypeScript, PostgreSQL, & AWS.*
 * Features automated AI classification and priority routing for incoming tickets using Groq LLMs and prompt engineering with context chunking.
 * Implemented real-time bi-directional messaging via Socket.IO, TanStack Query server-state management, and deployed to AWS (Amplify, Elastic Beanstalk, CloudFront).
@@ -55,11 +55,11 @@ Full-Stack Software Engineer & AI Systems Specialist with **4+ years of experien
 * Built with secure, role-based document operation architecture and scalable analytics pipelines.
 
 
-### 📊 [MDM Customer 360 Platform](https://github.com/shujaa786/mdm-customer360) — [*Live Demo*](https://main.d3kt6r8pkl7wuj.amplifyapp.com/)
+### 📊 [MDM Customer 360 Platform](https://github.com/shujaa786/mdm-customer360)
 *Reltio-inspired Master Data Management suite.*
 * Features fuzzy matching, entity resolution, golden record creation, and interactive relationship graph visualization using React Flow and Socket.io
 
-### 🧠 [DSA Practice & Concept Tracker](https://github.com/shujaa786/dsa-sheet-mern) — [*Live Demo*](https://main.d3655aq63mcd1k.amplifyapp.com/login)
+### 🧠 [DSA Practice & Concept Tracker](https://github.com/shujaa786/dsa-sheet-mern)
 *Full-stack progress tracking tool built on the MERN stack for structured algorithmic practice and topic revision.*
 
 ---
