@@ -2,16 +2,21 @@ name: GitHub Profile Static Cards Generator
 
 on:
   schedule:
-    - cron: '0 0 * * *' 
-  workflow_dispatch: 
+    - cron: '0 0 * * *' # Har roz automatic chalega
+  workflow_dispatch: # Manual run karne ke liye
+
+# GITHUB_TOKEN ko content write karne ki permission dena zaroori hai
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate SVG Analytics
     steps:
-      - uses: actions/checkout@v3
-
+      - uses: actions/checkout@v4
+      
+      # 1. Profile Details Card Generate karega
       - name: Generate Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -20,13 +25,16 @@ jobs:
           USERNAME: shujaa786
           THEME: dark
 
+      # 2. Activity Graph Generate karega (Fixed Version v1)
       - name: Generate Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v2
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: shujaa786
-          theme: react-dark
+          options: theme=react-dark&hide_border=true
           output_path: profile-summary-card-output/dark/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
+      # 3. Generated files ko main branch me push karega
       - name: Commit & Push Changes
         run: |
           git config --local user.email "action@github.com"
