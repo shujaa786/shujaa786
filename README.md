@@ -59,9 +59,6 @@ Full-Stack Software Engineer & AI Systems Specialist with **4+ years of experien
 *Reltio-inspired Master Data Management suite.*
 * Features fuzzy matching, entity resolution, golden record creation, and interactive relationship graph visualization using React Flow and Socket.io
 
-### 🧠 [DSA Practice & Concept Tracker](https://github.com/shujaa786/dsa-sheet-mern)
-*Full-stack progress tracking tool built on the MERN stack for structured algorithmic practice and topic revision.*
-
 ---
 
 ## 💼 Experience Highlights
@@ -89,13 +86,13 @@ Full-Stack Software Engineer & AI Systems Specialist with **4+ years of experien
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shujaa786&theme=dark" alt="Shujaaur's Profile Details" width="48%" />
- 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shujaa786&theme=react-dark" alt="Shujaaur's Contribution Graph" width="100%" />
-</p>
-</p>
+<div align="center">
+  <!-- GitHub Profile Summary Cards Output -->
+  <img src="./profile-summary-card-output/dark/0-profile-details.svg" alt="GitHub Profile Details" width="49%" />
+
+  <!-- GitHub Activity Graph Output -->
+  <img src="./profile-summary-card-output/dark/activity-graph.svg" alt="GitHub Activity Graph" width="49%" />
+</div>
 
 
 
