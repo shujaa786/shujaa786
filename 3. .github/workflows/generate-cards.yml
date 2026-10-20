@@ -1,0 +1,36 @@
+name: GitHub Profile Static Cards Generator
+
+on:
+  schedule:
+    - cron: '0 0 * * *' 
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate SVG Analytics
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: shujaa786
+          THEME: dark
+
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v2
+        with:
+          username: shujaa786
+          theme: react-dark
+          output_path: profile-summary-card-output/dark/activity-graph.svg
+
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Updated GitHub Profile Graphs & Metrics [skip ci]" || exit 0
+          git push
